@@ -22,6 +22,7 @@ O resultado do IMC e uma classificação serão exibidos abaixo do botão, indic
 ## Lógica do Código
 O código utiliza JavaScript para calcular o IMC com base nos valores inseridos nos campos de nome, altura e peso. A classificação é atribuída de acordo com os padrões de faixas de IMC definidos pela Organização Mundial da Saúde (OMS).
 
-Referências
+## Referências
 [Fernando Leonid](https://www.youtube.com/watch?v=RacwEvoTz_Y&list=PLDgemkIT111AzoS1rB61sgMJbsEA4pyD2)
+
 [Documentação JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
